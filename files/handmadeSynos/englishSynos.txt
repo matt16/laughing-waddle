@@ -1,0 +1,4 @@
+%;percent
+USD;dollar
+US dollar;dollar
+test synonym;bla bla bla

@@ -1,0 +1,3 @@
+"([ner:ORGANIZATION]+[tense:Past]*($MERGER([tense:Past]*[ner:ORGANIZATION]+)?))|" +
+"([ner: ORGANIZATION]+[tense:Past]*[ner: ORGANIZATION]+[tense:Past]*$MERGER)|" +
+"($MERGER[tense:Past]*[ner: ORGANIZATION]+([tense:Past]*[ner: ORGANIZATION]+)?)"

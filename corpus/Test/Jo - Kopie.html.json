@@ -1,0 +1,152 @@
+[
+  {
+    "sentenceIndex": 0,
+    "tokens": [
+      "We",
+      "think",
+      "that",
+      "if",
+      "the",
+      "rate",
+      "was",
+      "increased",
+      ",",
+      "the",
+      "result",
+      "would",
+      "be",
+      "different",
+      "."
+    ],
+    "isHit": {
+      "Conditionality1": [
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "Conditionality2": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "orginalSentence": "We think that if the rate was increased, the result would be different."
+  },
+  {
+    "sentenceIndex": 1,
+    "tokens": [
+      "If",
+      "you",
+      "will",
+      "work",
+      "for",
+      "me",
+      "then",
+      "I",
+      "will",
+      "surprise",
+      "you",
+      "."
+    ],
+    "isHit": {
+      "Conditionality1": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "Conditionality2": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "orginalSentence": "If you will work for me then I will surprise you."
+  },
+  {
+    "sentenceIndex": 2,
+    "tokens": [
+      "The",
+      "result",
+      "would",
+      "be",
+      "different",
+      "if",
+      "the",
+      "rate",
+      "was",
+      "increased",
+      "."
+    ],
+    "isHit": {
+      "Conditionality1": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "Conditionality2": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "orginalSentence": "The result would be different if the rate was increased."
+  }
+]
